@@ -1,0 +1,368 @@
+body {
+	/*border: 3px solid grey;
+	border-radius: 25px; */
+	margin-left: 150px;
+	margin-right: 150px;
+	margin-top: 30x;
+	background-color: #ffffff;
+	font-family: verdana;
+}
+
+div {
+	background-color: black;
+	border-width: 6px;
+	border-style: dotted;
+	border-color: white;
+	border-radius: 10px;
+}
+
+h1 {
+	color: grey;
+	text-align: center;
+}
+
+#input1 {
+	color: white;
+	margin-left:  15px;
+	text-align: left;
+	font-family: verdana;
+	font-size: 18px;
+	
+}
+
+.input1{
+	margin-left:  200px;
+}
+
+#input2 {
+	margin-left:  15px;
+	text-align: left;
+	color: white;
+	font-family: verdana;
+	font-size: 18px;
+}
+
+.input2{
+	margin-left:  125px;
+}
+
+
+#input3 {
+	margin-left:  15px;
+	text-align: left;
+	color: white;
+	font-family: verdana;
+	font-size: 18px;
+}
+
+.input3{
+	margin-left:  100px;
+}
+
+#input4 {
+	margin-left:  15px;
+	text-align: left;
+	color: white;
+	font-family: verdana;
+	font-size: 18px;
+}
+
+.input4{
+	margin-left:  150px;
+}
+
+#input5 {
+	margin-left:  115px;
+	text-align: left;
+	color: white;
+	font-family: verdana;
+	font-size: 18px;
+}
+
+.input5{
+	margin-left:  20px;
+}
+
+#input9 {
+	margin-left:  15px;
+	text-align: left;
+	font-family: verdana;
+	font-size: 18px;
+	color: white;
+}
+
+.input9{
+	margin-left:  165px;
+}
+
+#input6 {
+	margin-left:  235px;
+	text-align: left;
+	color: white;
+	font-family: verdana;
+	font-size: 18px;
+}
+
+.input6{
+	margin-left:  763px;
+}
+
+#input10 {
+	color: white;
+	margin-left:  15px;
+	text-align: left;
+	font-family: verdana;
+	font-size: 18px;
+}
+
+.input10{
+	margin-left:  165px;
+	border: none;
+    border-bottom: 2px solid white;
+    background-color: transparent;
+}
+
+#input7 {
+	margin-left:  210px;
+	text-align: left;
+	color: white;
+	font-family: verdana;
+	font-size: 18px;
+}
+
+.input7{
+	margin-left:  30px;
+}
+
+#input11 {
+	margin-left:  15px;
+	text-align: left;
+	color: white;
+	font-family: verdana;
+	font-size: 18px;
+}
+
+.input11{
+	margin-left:  145px;
+}
+
+#input8 {
+	margin-left:  113px;
+	text-align: left;
+	color: white;
+	font-family: verdana;
+	font-size: 18px;
+}
+
+.input8{
+	margin-left:  30px;
+}
+
+#input12 {
+	margin-left:  15px;
+	text-align: left;
+	font-family: verdana;
+	font-size: 18px;
+	color: white;
+}
+
+.input12{
+	margin-left:  128px;
+}
+
+#input13 {
+	margin-left:  15px;
+	text-align: left;
+	font-family: verdana;
+	font-size: 18px;
+	color: white;
+}
+
+.input13{
+	margin-left:  120px;
+}
+
+#input14 {
+	margin-left:  15px;
+	text-align: left;
+	font-family: verdana;
+	font-size: 18px;
+	color: white;
+}
+
+.input14{
+	margin-left:  184px;
+}
+
+#input15 {
+	margin-left:  15px;
+	text-align: left;
+	font-family: verdana;
+	font-size: 18px;
+	color: white;
+}
+
+.input15{
+	margin-left:  27px;
+}
+
+#input16 {
+	margin-left:  15px;
+	text-align: left;
+	font-family: verdana;
+	font-size: 18px;
+	color: white;
+}
+
+
+h2 {
+	color: grey;
+	text-align: center;
+	font-family: verdana;
+}
+
+#input17 {
+	margin-left:  15px;
+	text-align: left;
+	font-family: verdana;
+	font-size: 18px;
+	color: white;
+}
+
+.input17{
+	margin-left:  160px;
+}
+
+#input20 {
+	margin-left:  50px;
+	text-align: left;
+	font-family: verdana;
+	font-size: 18px;
+	color: white;
+}
+
+.input20{
+	margin-left:  27px;
+}
+
+#input18 {
+	margin-left:  15px;
+	text-align: left;
+	font-family: verdana;
+	font-size: 18px;
+	
+}
+
+.input18{
+	margin-left:  157px;
+}
+
+#input21 {
+	margin-left:  50px;
+	text-align: left;
+	font-family: verdana;
+	font-size: 18px;
+	color: white;
+}
+
+.input21{
+	margin-left:  27px;
+}
+
+#input19 {
+	margin-left:  15px;
+	text-align: left;
+	font-family: verdana;
+	font-size: 18px;
+	color: white;
+}
+
+.input19 {
+	margin-left:  189px;
+}
+
+#input22 {
+	margin-left:  50px;
+	text-align: left;
+	font-family: verdana;
+	font-size: 18px;
+	color: white;
+}
+
+.input22{
+	margin-left:  27px;
+}
+
+#input23 {
+	margin-left:  15px;
+	text-align: left;
+	font-family: verdana;
+	font-size: 18px;
+	color: white;
+}
+
+.input23{
+	margin-left:  193px;
+}
+
+#input24 {
+	margin-left:  15px;
+	text-align: left;
+	font-family: verdana;
+	font-size: 18px;
+	color: white;
+}
+
+.input24{
+	margin-left:  152px;
+
+}
+
+.submit {
+    background-color: grey;
+    border: none;
+    color: black;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 450px;
+}
+
+
+
+
+input[type=text] {
+	color: white;
+	width: 25%;
+	border: none;
+    border-bottom: 2px solid white;
+    background-color: transparent;
+}
+
+input[type=number] {
+	color: white;
+	width: 25%;
+	border: none;
+    border-bottom: 2px solid white;
+    background-color: transparent;
+}
+
+input[type=date] {
+	color: white;
+	width: 25%;
+	border: none;
+    border-bottom: 2px solid white;
+    background-color: transparent;
+}
+
+input[type=select] {
+	color: white;	
+	width: 25%;
+	border: none;
+    border-bottom: 2px solid white;
+    background-color: transparent;
+}
+
+
+
